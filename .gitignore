@@ -1,0 +1,21 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.out
+*.exe
+pka_smoke
+minimal_subsequential_transducer
+smoke_tests
+
+# Temporary/editor files
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
